@@ -32,6 +32,8 @@
     "copy",
     "move",
     "rename",
-    "remove"
+    "remove",
+    "utility",
+    "tools"
   ]
 }

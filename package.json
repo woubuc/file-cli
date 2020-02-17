@@ -1,7 +1,7 @@
 {
   "name": "fcli",
   "description": "CLI tool to do basic file operations (copy, read, write, move...) in a cross-platform way",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Wouter Buckens <wou.buc@gmail.com>",
   "homepage": "https://github.com/woubuc/file-cli/blob/master/README.md",

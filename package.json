@@ -4,7 +4,7 @@
   "version": "1.2.0",
   "license": "MIT",
   "author": "Wouter Buckens <wou.buc@gmail.com>",
-  "homepage": "https://github.com/woubuc/file-cli/blob/master/README.md",
+  "homepage": "https://github.com/woubuc/file-cli/blob/master/README.md#file-cli",
   "repository": "github:woubuc/file-cli",
   "bugs": "https://github.com/woubuc/file-cli/issues",
   "bin": {

@@ -1,0 +1,37 @@
+{
+  "name": "fcli",
+  "description": "CLI tool to do basic file operations (copy, read, write, move...) in a cross-platform way",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Wouter Buckens <wou.buc@gmail.com>",
+  "homepage": "https://github.com/woubuc/file-cli/blob/master/README.md",
+  "repository": "github:woubuc/file-cli",
+  "bugs": "https://github.com/woubuc/file-cli/issues",
+  "bin": {
+    "fcli": "lib/index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^8.0.1",
+    "@types/yargs": "^15.0.3"
+  },
+  "files": [
+    "lib/index.js"
+  ],
+  "keywords": [
+    "file",
+    "cli",
+    "fs",
+    "extra",
+    "filesystem",
+    "read",
+    "write",
+    "copy",
+    "move",
+    "rename",
+    "remove"
+  ]
+}

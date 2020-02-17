@@ -1,4 +1,9 @@
 # File CLI
+[![npm](https://img.shields.io/npm/v/file-cli)](https://www.npmjs.com/package/file-cli)
+[![David](https://img.shields.io/david/woubuc/file-cli)](https://david-dm.org/woubuc/file-cli)
+[![MIT license](https://img.shields.io/github/license/woubuc/file-cli)](https://github.com/woubuc/node-updown/blob/master/LICENSE.txt)
+
+
 CLI tool to do basic file operations in a cross-platform way. Uses [fs-extra](https://www.npmjs.com/package/fs-extra) under the hood.
 
 ## Install

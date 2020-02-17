@@ -1,5 +1,5 @@
 {
-  "name": "fcli",
+  "name": "file-cli",
   "description": "CLI tool to do basic file operations (copy, read, write, move...) in a cross-platform way",
   "version": "1.0.0",
   "license": "MIT",
@@ -8,7 +8,8 @@
   "repository": "github:woubuc/file-cli",
   "bugs": "https://github.com/woubuc/file-cli/issues",
   "bin": {
-    "fcli": "lib/index.js"
+    "fcli": "lib/index.js",
+    "file-cli": "lib/index.js"
   },
   "dependencies": {
     "fs-extra": "^8.1.0",

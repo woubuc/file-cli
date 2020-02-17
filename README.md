@@ -4,15 +4,17 @@ CLI tool to do basic file operations in a cross-platform way. Uses [fs-extra](ht
 ## Install
 Install globally:
 ```
-npm i -g fcli
+npm i -g file-cli
 ```
 
 Or install into your project's dev-dependencies to use in your scripts:
 ```
-npm i -D fcli
+npm i -D file-cli
 ```
 
-## Command
+## Commands
+The CLI can be used as `fcli`, which is a little shorter than `file-cli`.
+
 Run `fcli --help` to view a list of commands in your terminal.
 
 #### Read
